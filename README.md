@@ -4,7 +4,7 @@ Courses and exercises from SQL program certification at Openclassrooms (credit t
 ### Motivation
 Shows the content of SQL program certification from one of the most important french e-learning platform openclassrooms.com
 
-Especially, all the work i had to provide and the official certification achivement from openclassrooms
+Especially, all the work i had to provide and the official certification achievement from openclassrooms
 ### Content
 * /tp1 : 
 Create a database for a blog (creating tables with constraints like foreign keys, unique keys and not null fields)
@@ -26,4 +26,4 @@ Involve blog with procedures, views and triggers on insertion,update or deletion
 * administrez-vos-bases-de-donnes-avec-mysql-2e-edition.pdf :
 Complete course for SQL program certification 
 * certificat_youcef-kacer_adinistrez-vos-bases-de-donnees-avec-mysql.pdf
-Official certification for SQL program achievement from openclassrooms site
+Official certification for SQL program achievement from openclassrooms site 
