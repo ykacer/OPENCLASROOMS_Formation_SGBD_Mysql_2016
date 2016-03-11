@@ -25,5 +25,5 @@ Involve blog with procedures, views and triggers on insertion,update or deletion
 	* tp3_correction.pdf : pdf file with explained marks
 * administrez-vos-bases-de-donnes-avec-mysql-2e-edition.pdf :
 Complete course for SQL program certification 
-* certificat_youcef-kacer_adinistrez-vos-bases-de-donnees-avec-mysql.pdf
+* certificat_youcef-kacer_adinistrez-vos-bases-de-donnees-avec-mysql.pdf :
 Official certification for SQL program achievement from openclassrooms site 
